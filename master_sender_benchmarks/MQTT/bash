@@ -1,0 +1,8 @@
+# Install Mosquitto
+   sudo apt-get install mosquitto mosquitto-clients
+
+   # Start the broker
+   sudo systemctl start mosquitto
+
+   # Test with command line tools
+   mosquitto_sub -h localhost -t "esp32/json" -v

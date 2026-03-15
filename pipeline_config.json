@@ -1,0 +1,15 @@
+{
+  "experiments": {
+    "01_energy_calculation.py": 1,
+    "02_energy_aggregator.py": 2,
+    "03_add_prot_col_and_order.py": 3
+  },
+  "main": {
+    "04_merge_all_protocol_csvs.py": 4
+  },
+  "results": {
+    "05_do_boxplot.py": 5,
+    "06_kruskall_wallis.py": 6,
+    "07_check_practical_difference.py": 7
+  }
+}
