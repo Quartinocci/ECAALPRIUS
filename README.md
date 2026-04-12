@@ -77,7 +77,7 @@ This repository includes the raw data used to generate the figures in the paper:
 
 * **`CSV_Benchmark_1_2_parquet/`**
   Contains the data for representing
-  *Energy (J) used by a single run while executing light benchmark and heavy benchmark*, The data is provided in parquet format, each folder inside `CSV_Benchmark_1_2_parquet/` represents a protocol tested, inside each protocol folder there are the various heavy CSV (in parquet format) obtained from running the pipeline script.
+  *Energy (J) used by a single run while executing light benchmark and heavy benchmark*, The data is provided in parquet format, each folder inside `CSV_Benchmark_1_2_parquet/` represents a protocol tested, inside each protocol folder there are the various CSV (in parquet format) obtained from running the pipeline script.
 
   <p align="center">
     <img src="CSV_Benchmark_1_2_parquet/results/boxplot_benchmark1.png" width="45%">
