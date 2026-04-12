@@ -2,8 +2,9 @@
 Master thesis repository for scripts and data used in thesis/ paper
 
 > [!NOTE]
-> **Naming note:** The code refers to benchmarks by type number (`type 1`, `type 2`),
-> which correspond to **light** and **heavy** respectively in this README and the paper.
+> **Naming note:** The code refers to benchmarks by type number (`type 1`, `type 2`). `type 1` corresponds to **light** in paper, readme and thesis. `type 2` corresponds to **intermediate** in the thesis, and **heavy** in the paper and readme.
+>
+> 
 
 ---
 
